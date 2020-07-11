@@ -1,0 +1,8 @@
+.invalid {
+    font-size: smaller;
+    color: brown;
+    margin-left: 12px;
+}
+input {
+    margin-top: 20px;
+}
